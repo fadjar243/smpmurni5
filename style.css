@@ -169,7 +169,6 @@ body {
 /* Media Query untuk Responsif */
 @media screen and (max-width: 768px) {
     .ul-navbar {
-        flex-direction: column;
         align-items: center;
     }
 
